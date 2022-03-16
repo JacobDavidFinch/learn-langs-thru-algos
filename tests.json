@@ -1,0 +1,8 @@
+{
+    "description": "run different tests for leetcode problems",
+    "twoSum": {
+        "tests": [
+            [[[1,2,3], 4], [0, 2]]
+        ]
+    }
+}
